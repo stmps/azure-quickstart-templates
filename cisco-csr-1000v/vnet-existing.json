@@ -36,10 +36,6 @@
     "subnet1Ref": {
       "value": "[concat(variables('vnetID'),'/','parameters('Subnet1Name')]",
       "type": "string"
-    },
-    "subnet2Ref": {
-      "value": "[concat(variables('vnetID'),'/','parameters('Subnet2Name')]",
-      "type": "string"
     }
   }
 }

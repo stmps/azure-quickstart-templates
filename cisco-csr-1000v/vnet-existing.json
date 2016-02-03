@@ -17,12 +17,6 @@
     "Subnet1Prefix": {
       "type": "string"
     },
-    "Subnet2Name": {
-      "type": "string"
-    },
-    "Subnet2Prefix": {
-      "type": "string"
-    },
     "vnetExistingRGName" : {
       "type" : "string",
       "defaultValue" : ""
